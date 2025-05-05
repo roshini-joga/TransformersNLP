@@ -1,7 +1,5 @@
 # TransformersNLP
 
-# NLP Patterns Demo
-
 This repository contains Colab notebooks and video walkthroughs demonstrating various NLP tasks using Keras NLP and Hugging Face Transformers. Each notebook is accompanied by a recorded debug trace to help you follow along with the implementation.
 
 ## Repository Structure
